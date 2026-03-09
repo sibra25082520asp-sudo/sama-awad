@@ -1,1 +1,164 @@
-# sama-awad
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+<h1>Hi I'm Sama</h1>
+
+<h2>About Me</h2>
+
+<p>My name is Sama Ibrahim. I am 16 years old and I live in Seoul now. 
+I am from Egypt, but I have lived in Korea for many years. 
+In the future, I want to become a doctor. I also hope to live in Spain one day. 
+These are some of my goals, and I will work hard to achieve them.</p>
+
+<h2>My Goals</h2>
+<ul>
+<li>Get good grades</li>
+<li>Learn new languages</li>
+<li>Become surgean doctor</li>
+</ul>
+
+<h2>My Best Work</h2>
+<ul>
+<li>Get good grades</li>
+<li>Learn new languages</li>
+<li>Become surgery doctor</li>
+</ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Class Traditional Cuisine</title>
+
+<style>
+body{
+margin:0;
+font-family:'Segoe UI', sans-serif;
+background:linear-gradient(to right,#1e3c72,#2a5298);
+color:white;
+}
+
+header{
+text-align:center;
+padding:30px;
+background-color:rgba(0,0,0,0.4);
+}
+
+header h1{
+margin:0;
+font-size:40px;
+letter-spacing:2px;
+}
+
+table{
+width:85%;
+margin:30px auto;
+border-collapse:collapse;
+background-color:white;
+color:black;
+border-radius:10px;
+overflow:hidden;
+}
+
+th{
+background-color:#ff6b6b;
+color:white;
+padding:12px;
+}
+
+td{
+padding:10px;
+text-align:center;
+}
+
+tr:nth-child(even){
+background-color:#f2f2f2;
+}
+
+.America{
+background:linear-gradient(to right,#ff9a9e,#fad0c4);
+color:black;
+}
+
+h2{
+margin-top:0;
+}
+
+ul,ol{
+margin-left:20px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background-color:rgba(0,0,0,0.4);
+margin-top:40px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1> My Traditional Cuisine Project</h1>
+<p></p>
+</header>
+
+<table>
+<tr>
+<th>Dish</th>
+<th>Country</th>
+<th>Student</th>
+</tr>
+
+<tr>
+<td>Chicken burger</td>
+<td>America</td>
+<td>Sama</td>
+</tr>
+</table>
+
+<div class="card America">
+
+<h2>Chicken burger (America)</h2>
+
+<p>
+The chicken burger became popular in the United States.
+It is a popular fast food meal enjoyed by many people around the world.
+</p>
+
+<h3>Ingredients</h3>
+<ul>
+<li>Chicken breast</li>
+<li>Burger buns</li>
+<li>Lettuce</li>
+<li>Tomato slices</li>
+<li>Onion slices</li>
+<li>Cheese slice</li>
+<li>Mayonnaise</li>
+<li>Ketchup</li>
+<li>Pickles</li>
+<li>Salt and pepper</li>
+</ul>
+
+<h3>Steps</h3>
+<ol>
+<li>Wash and clean the chicken breast</li>
+<li>Season the chicken with salt and pepper</li>
+<li>Add spices (garlic powder, paprika)</li>
+<li>Dip the chicken in beaten egg</li>
+<li>Coat the chicken with breadcrumbs</li>
+<li>Heat oil in a pan</li>
+<li>Fry the chicken until golden brown</li>
+<li>Toast the burger buns</li>
+<li>Add lettuce, tomato, and sauce to the bun</li>
+<li>Place the chicken on the bun</li>
+</ol>
+
+</div>
+
+</body>
+</html>
