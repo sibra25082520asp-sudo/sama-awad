@@ -9,10 +9,10 @@
 
 <h2>About Me</h2>
 
-<p>My name is Sama Ibrahim. I am 16 years old and I live in Seoul now. 
+<p> My name is Sama Ibrahim. I am 16 years old and I live in Seoul now. 
 I am from Egypt, but I have lived in Korea for many years. 
 In the future, I want to become a doctor. I also hope to live in Spain one day. 
-These are some of my goals, and I will work hard to achieve them.</p>
+These are some of my goals, and I will work hard to achieve them. </p>
 
 <h2>My Goals</h2>
 <ul>
