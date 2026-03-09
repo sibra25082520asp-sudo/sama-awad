@@ -21,14 +21,7 @@ These are some of my goals, and I will work hard to achieve them. </p>
 <li>Become surgean doctor</li>
 </ul>
 
-<h2>My Best Work</h2>
-<ul>
-<li>Get good grades</li>
-<li>Learn new languages</li>
-<li>Become surgery doctor</li>
-</ul>
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Class Traditional Cuisine</title>
