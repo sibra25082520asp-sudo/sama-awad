@@ -36,7 +36,9 @@ Some of my best work is drawing and crocheting. I like drawing different things 
 
  <h2>Challenges & Growth</h2>
     <p>
-       .
+       <p>
+One challenge for me is focusing on my studies while thinking about my future. I want to do well in school so I can reach my goals. 
+</p>
     </p>
     
     <h2>My Hobbies</h2>
@@ -45,10 +47,24 @@ Some of my best work is drawing and crocheting. I like drawing different things 
         <li>Using artistic skills</li>
         <li>Reading Books</li>
     </ul>
-
-<style>
+    
+    <h2>Future Plans</h2>
+    <p>
+        <p>
+In the future, I want to become a surgeon. I also want to work in business and learn how to manage and organize companies.
+</p>
+    
+ <style>
 body{
 margin:0;
+font-family:'Segoe UI', sans-serif;
+background:linear-gradient(to right,#1e4c72,#2a9298);
+color:white;
+}
+
+body{
+margin:0;
+padding:40px;
 font-family:'Segoe UI', sans-serif;
 background:linear-gradient(to right,#1e4c72,#2a9298);
 color:white;
