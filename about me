@@ -1,67 +1,11 @@
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
-</head>
-<body>
 
-<h1>Hi I'm Sama</h1>
+<title>My Portfolio</title>
 
-<h2>About Me</h2>
-
-<p> My name is Sama Ibrahim. I am 16 years old and I live in Seoul now. 
-I am from Egypt, but I have lived in Korea for many years. 
-In the future, I want to become a doctor. I also hope to live in Spain one day. 
-These are some of my goals, and I will work hard to achieve them. </p>
-
-<h2>My Goals</h2>
-<ul>
-<li>Get good grades</li>
-<li>Learn new languages</li>
-<li>Become surgean doctor</li>
-</ul>
-
-    <h2>My Best Work</h2>
-    <p>
-Some of my best work is drawing and crocheting. I like drawing different things in my free time.  I also enjoy crocheting because I like making things with my hands. 
-</p>
-        
- <h2>Skills & Strengths</h2>
-<ul>
-<li>Drawing</li>
-<li>Reading</li>
-<li>Creativity</li>
-</ul>
-
-
- <h2>Challenges & Growth</h2>
-    <p>
-       <p>
-One challenge for me is focusing on my studies while thinking about my future. I want to do well in school so I can reach my goals. 
-</p>
-    </p>
-    
-    <h2>My Hobbies</h2>
-    <ul>
-        <li>Drawing</li>
-        <li>Using artistic skills</li>
-        <li>Reading Books</li>
-    </ul>
-    
-    <h2>Future Plans</h2>
-    <p>
-        <p>
-In the future, I want to become a surgeon. I also want to work in business and learn how to manage and organize companies.
-</p>
-    
- <style>
-body{
-margin:0;
-font-family:'Segoe UI', sans-serif;
-background:linear-gradient(to right,#1e4c72,#2a9298);
-color:white;
-}
-
+<style>
 body{
 margin:0;
 padding:40px;
@@ -69,3 +13,92 @@ font-family:'Segoe UI', sans-serif;
 background:linear-gradient(to right,#1e4c72,#2a9298);
 color:white;
 }
+
+h1{
+text-align:Left;
+margin-bottom:30px;
+}
+
+.section{
+background:white;
+color:black;
+padding:20px;
+margin-bottom:25px;
+border-radius:15px;
+box-shadow:0 4px 10px 
+}
+
+h2{
+margin-top:0;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>My Portfolio</h1>
+
+<div class="section">
+<h2>About Me</h2>
+<p>
+My name is Sama Ibrahim. I am 16 years old and I live in Seoul now. 
+I am from Egypt, but I have lived in Korea for many years. 
+In the future, I want to become a doctor. I also hope to live in Spain one day.
+</p>
+</div>
+
+<div class="section">
+<h2>My Goals</h2>
+<ul>
+<li>Get good grades</li>
+<li>Learn new languages</li>
+<li>Become a surgeon</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>My Best Work</h2>
+<p>
+Some of my best work is drawing and crocheting. 
+I like drawing different things in my free time. 
+I also enjoy crocheting because I like making things with my hands.
+</p>
+</div>
+
+<div class="section">
+<h2>Skills & Strengths</h2>
+<ul>
+<li>Drawing</li>
+<li>Reading</li>
+<li>Creativity</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Challenges & Growth</h2>
+<p>
+One challenge for me is focusing on my studies while thinking about my future. 
+I want to do well in school so I can reach my goals.
+</p>
+</div>
+
+<div class="section">
+<h2>My Hobbies</h2>
+<ul>
+<li>Drawing</li>
+<li>Using artistic skills</li>
+<li>Reading books</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Future Plans</h2>
+<p>
+In the future, I want to become a surgeon. 
+I also want to work in business and learn how to manage and organize companies.
+</p>
+</div>
+
+</body>
+</html>
